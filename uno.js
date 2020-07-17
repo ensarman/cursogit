@@ -1,4 +1,4 @@
 
 boton.addEventListener("click", () => {
-    alert("dale aceptar");
+    alert("esto es una alerta");
 });
